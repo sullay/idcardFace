@@ -1,0 +1,17 @@
+C:\Users\11815\Documents\sullay\hongruan\ArcSoftIDCardFace_CSharp\ArcSoftIDCardFace\ArcSoftIDCardFace\bin\Debug\ArcSoftIDCardFace.exe.config
+C:\Users\11815\Documents\sullay\hongruan\ArcSoftIDCardFace_CSharp\ArcSoftIDCardFace\ArcSoftIDCardFace\bin\Debug\ArcSoftIDCardFace.exe
+C:\Users\11815\Documents\sullay\hongruan\ArcSoftIDCardFace_CSharp\ArcSoftIDCardFace\ArcSoftIDCardFace\bin\Debug\ArcSoftIDCardFace.pdb
+C:\Users\11815\Documents\sullay\hongruan\ArcSoftIDCardFace_CSharp\ArcSoftIDCardFace\ArcSoftIDCardFace\bin\Debug\AForge.Controls.dll
+C:\Users\11815\Documents\sullay\hongruan\ArcSoftIDCardFace_CSharp\ArcSoftIDCardFace\ArcSoftIDCardFace\bin\Debug\AForge.dll
+C:\Users\11815\Documents\sullay\hongruan\ArcSoftIDCardFace_CSharp\ArcSoftIDCardFace\ArcSoftIDCardFace\bin\Debug\AForge.Imaging.dll
+C:\Users\11815\Documents\sullay\hongruan\ArcSoftIDCardFace_CSharp\ArcSoftIDCardFace\ArcSoftIDCardFace\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\11815\Documents\sullay\hongruan\ArcSoftIDCardFace_CSharp\ArcSoftIDCardFace\ArcSoftIDCardFace\bin\Debug\AForge.Video.dll
+C:\Users\11815\Documents\sullay\hongruan\ArcSoftIDCardFace_CSharp\ArcSoftIDCardFace\ArcSoftIDCardFace\bin\Debug\AForge.Math.dll
+C:\Users\11815\Documents\sullay\hongruan\ArcSoftIDCardFace_CSharp\ArcSoftIDCardFace\ArcSoftIDCardFace\obj\Debug\ArcSoftIDCardFace.csprojAssemblyReference.cache
+C:\Users\11815\Documents\sullay\hongruan\ArcSoftIDCardFace_CSharp\ArcSoftIDCardFace\ArcSoftIDCardFace\obj\Debug\ArcsoftIDCardFace.ArcfaceIDCard.resources
+C:\Users\11815\Documents\sullay\hongruan\ArcSoftIDCardFace_CSharp\ArcSoftIDCardFace\ArcSoftIDCardFace\obj\Debug\ArcSoftIDCardFace.Properties.Resources.resources
+C:\Users\11815\Documents\sullay\hongruan\ArcSoftIDCardFace_CSharp\ArcSoftIDCardFace\ArcSoftIDCardFace\obj\Debug\ArcSoftIDCardFace.csproj.GenerateResource.cache
+C:\Users\11815\Documents\sullay\hongruan\ArcSoftIDCardFace_CSharp\ArcSoftIDCardFace\ArcSoftIDCardFace\obj\Debug\ArcSoftIDCardFace.csproj.CoreCompileInputs.cache
+C:\Users\11815\Documents\sullay\hongruan\ArcSoftIDCardFace_CSharp\ArcSoftIDCardFace\ArcSoftIDCardFace\obj\Debug\ArcSoftIDCardFace.csproj.CopyComplete
+C:\Users\11815\Documents\sullay\hongruan\ArcSoftIDCardFace_CSharp\ArcSoftIDCardFace\ArcSoftIDCardFace\obj\Debug\ArcSoftIDCardFace.exe
+C:\Users\11815\Documents\sullay\hongruan\ArcSoftIDCardFace_CSharp\ArcSoftIDCardFace\ArcSoftIDCardFace\obj\Debug\ArcSoftIDCardFace.pdb
